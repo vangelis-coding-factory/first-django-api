@@ -11,7 +11,7 @@ A simple Django Rest API
 ### Dependencies
 
 * Python 11
-* Django 4
+* Django 5
 
 ### Installing
 
